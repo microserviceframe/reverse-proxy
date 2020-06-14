@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
   <ProductDependencies>
-    <Dependency Name="Microsoft.NETCore.App" Version="5.0.0-preview.5.20268.9">
+    <Dependency Name="Microsoft.NETCore.App" Version="5.0.0-preview.6.20305.6">
       <Uri>https://github.com/dotnet/runtime</Uri>
-      <Sha>f3c276fe203c613a1f618ae528df8ea95c09e35a</Sha>
+      <Sha>4ba9ecaabd4d5c87c776a030eafdac0bae0512cf</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="5.0.0-beta.20261.9">
+    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="5.0.0-beta.20280.1">
       <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>898e51ed5fdcc4871087ac5754ca9056e58e575d</Sha>
+      <Sha>fef373440d604c428950236fbc2b99ce0df368a9</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.DotNet.Helix.Sdk" Version="5.0.0-beta.20261.9">
+    <Dependency Name="Microsoft.DotNet.Helix.Sdk" Version="5.0.0-beta.20280.1">
       <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>898e51ed5fdcc4871087ac5754ca9056e58e575d</Sha>
+      <Sha>fef373440d604c428950236fbc2b99ce0df368a9</Sha>
     </Dependency>
   </ToolsetDependencies>
 </Dependencies>

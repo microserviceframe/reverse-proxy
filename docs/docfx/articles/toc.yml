@@ -1,2 +1,6 @@
 - name: Getting Started
   href: getting_started.md
+- name: Supported Runtimes
+  href: runtimes.md
+- name: Session Affinity
+  href: session-affinity.md
